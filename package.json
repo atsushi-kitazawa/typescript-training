@@ -1,0 +1,24 @@
+{
+  "name": "typescript-training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atsushi-kitazawa/typescript-training.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atsushi-kitazawa/typescript-training/issues"
+  },
+  "homepage": "https://github.com/atsushi-kitazawa/typescript-training#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.4",
+    "tslint": "^6.1.3",
+    "typescript": "^4.5.4"
+  }
+}
